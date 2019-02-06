@@ -1,0 +1,3 @@
+2019-Jan-21 14:05:46.540 DEBUG [RMI TCP Connection(2)-127.0.0.1] o.h.i.SessionFactoryImpl - HHH000031: Closing
+2019-Jan-21 14:05:46.557 DEBUG [RMI TCP Connection(2)-127.0.0.1] o.h.s.i.AbstractServiceRegistryImpl - Implicitly destroying ServiceRegistry on de-registration of all child ServiceRegistries
+2019-Jan-21 14:05:46.558 DEBUG [RMI TCP Connection(2)-127.0.0.1] o.h.b.r.i.BootstrapServiceRegistryImpl - Implicitly destroying Boot-strap registry on de-registration of all child ServiceRegistries
